@@ -1,5 +1,6 @@
 # PowerAppsTestStudio
 
+## Check out the [YouTube Video](https://youtu.be/t6eddlmxtXE) that goes with this REPO
 Test Studio - Testing Platform
 https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/test-studio
 
