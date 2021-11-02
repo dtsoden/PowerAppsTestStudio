@@ -4,6 +4,8 @@
 Test Studio - Testing Platform
 https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/test-studio
 
+<p>&nbsp;</p>
+
 Know that the tests Travel with the application across environments
 * Enable "Formula Level Error Management" 1st from the applications settings.
 	
